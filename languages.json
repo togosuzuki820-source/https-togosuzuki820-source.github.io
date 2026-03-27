@@ -1,0 +1,30 @@
+[
+  {
+    "id": "swahili",
+    "name": "Swahili",
+    "nativeName": "Kiswahili",
+    "flag": "🇹🇿, 🇰🇪",
+    "code": "sw"
+  },
+  {
+    "id": "amharic",
+    "name": "Amharic",
+    "nativeName": "አማርኛ",
+    "flag": "🇪🇹",
+    "code": "am"
+  },
+  {
+    "id": "kinyarwanda",
+    "name": "Kinyarwanda",
+    "nativeName": "Ikinyarwanda",
+    "flag": "🇷🇼",
+    "code": "rw"
+  },
+  {
+    "id": "lingala",
+    "name": "Lingala",
+    "nativeName": "Lingála",
+    "flag": "🇨🇩",
+    "code": "ln"
+  }
+]
