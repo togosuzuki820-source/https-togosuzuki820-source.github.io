@@ -1,0 +1,633 @@
+[
+  {
+    "id": "sw_1",
+    "text": "Jina lako nani?",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "What is your name?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Jina",
+      "lako",
+      "nani?"
+    ]
+  },
+  {
+    "id": "sw_2",
+    "text": "Jina langu ni Adamu",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "My name is Adam"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Jina",
+      "langu"
+    ]
+  },
+  {
+    "id": "sw_3",
+    "text": "Habari gani?",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "How are you?"
+    },
+    "pronunciation": "..."
+  },
+  {
+    "id": "sw_4",
+    "text": "Nzuri sana",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "Very good"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Nzuri",
+      "sana"
+    ]
+  },
+  {
+    "id": "sw_5",
+    "text": "Na wewe",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "What about you?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "wewe",
+      "na"
+    ]
+  },
+  {
+    "id": "sw_6",
+    "text": "Unatokea wapi?",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "Where are you from?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Unatokea",
+      "wapi?"
+    ]
+  },
+  {
+    "id": "sw_7",
+    "text": "Natokea Tanzania",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "I am from Tanzania"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Natokea"
+    ]
+  },
+  {
+    "id": "sw_8",
+    "text": "Unafanya nini?",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "What are you doing?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Unafanya"
+    ]
+  },
+  {
+    "id": "sw_9",
+    "text": "Unaongea Kingereza?",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "Do you speak English?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Unaongea",
+      "Kingereza?"
+    ]
+  },
+  {
+    "id": "sw_10",
+    "text": "Nimefurahi kukutana na wewe",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "Nice to meet you"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Nimefurahi",
+      "kukutana"
+    ]
+  },
+  {
+    "id": "sw_11",
+    "text": "Asante",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "Thank you"
+    },
+    "pronunciation": "..."
+  },
+  {
+    "id": "sw_12",
+    "text": "Karibu",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "You're welcome"
+    },
+    "pronunciation": "..."
+  },
+  {
+    "id": "sw_13",
+    "text": "Unasoma Kswahili?",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "Do you study Swahili?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Unasoma"
+    ]
+  },
+  {
+    "id": "sw_14",
+    "text": "Nakupenda",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "I love you"
+    },
+    "pronunciation": "..."
+  },
+  {
+    "id": "sw_15",
+    "text": "Choo kiko wapi?",
+    "category": "Greetings & Basics",
+    "translations": {
+      "en": "Where is the toilet?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Choo",
+      "wapi?"
+    ]
+  },
+  {
+    "id": "sw_16",
+    "text": "Hii ni saa ngapi?",
+    "category": "Sentences",
+    "translations": {
+      "en": "How much is this?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "saa ngapi"
+    ]
+  },
+  {
+    "id": "sw_17",
+    "text": "Hii ni shilingi elfu moja",
+    "category": "Sentences",
+    "translations": {
+      "en": "This is one thousand shilings"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Hii",
+      "shilingi elfu moja"
+    ]
+  },
+  {
+    "id": "sw_18",
+    "text": "Anapenda kula nini?",
+    "category": "Sentences",
+    "translations": {
+      "en": "What does he/she like to eat?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Anapenda",
+      "kula",
+      "nini?"
+    ]
+  },
+  {
+    "id": "sw_19",
+    "text": "Anapenda kula ugali",
+    "category": "Sentences",
+    "translations": {
+      "en": "He/She likes to eat ugali"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "kula"
+    ]
+  },
+  {
+    "id": "sw_20",
+    "text": "Wao ni wanafunzi",
+    "category": "Sentences",
+    "translations": {
+      "en": "They are students"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Wao"
+    ]
+  },
+  {
+    "id": "sw_21",
+    "text": "Mimi ni daktari",
+    "category": "Sentences",
+    "translations": {
+      "en": "I am a doctor"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Mimi",
+      "daktari"
+    ]
+  },
+  {
+    "id": "sw_22",
+    "text": "Sisi si walimu",
+    "category": "Sentences",
+    "translations": {
+      "en": "We are not teachers"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Sisi",
+      "walimu"
+    ]
+  },
+  {
+    "id": "sw_23",
+    "text": "Tuna njaa sana",
+    "category": "Sentences",
+    "translations": {
+      "en": "We are hungry (We have hunger)"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Tuna",
+      "njaa"
+    ]
+  },
+  {
+    "id": "sw_24",
+    "text": "Mtoto huyu ni mhodari",
+    "category": "Sentences",
+    "translations": {
+      "en": "This child is smart"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "huyu",
+      "mhodari"
+    ]
+  },
+  {
+    "id": "sw_25",
+    "text": "Wanafunzi wanasoma vitabu",
+    "category": "Sentences",
+    "translations": {
+      "en": "Students are reading books"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Wanafunzi",
+      "wanasoma",
+      "vitabu"
+    ]
+  },
+  {
+    "id": "sw_26",
+    "text": "Nani analala nyumbani?",
+    "category": "Sentences",
+    "translations": {
+      "en": "Who is sleeping at home?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Nani",
+      "analala",
+      "nyumbani?"
+    ]
+  },
+  {
+    "id": "sw_27",
+    "text": "Kuna abiria watatu",
+    "category": "Sentences",
+    "translations": {
+      "en": "There are three passengers"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Kuna",
+      "abiria"
+    ]
+  },
+  {
+    "id": "sw_28",
+    "text": "Wapishi wanapika chakula cha watu",
+    "category": "Sentences",
+    "translations": {
+      "en": "Cooks are cooking food for people"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Wapishi",
+      "wanapika",
+      "chakula",
+      "watu"
+    ]
+  },
+  {
+    "id": "sw_29",
+    "text": "Tunataka kuona twiga na simba",
+    "category": "Sentences",
+    "translations": {
+      "en": "We want to see giraffes and lions"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "kuona",
+      "twiga",
+      "simba"
+    ]
+  },
+  {
+    "id": "sw_30",
+    "text": "Hatutaki kuona twiga na simba",
+    "category": "Sentences",
+    "translations": {
+      "en": "We don't want to see giraffes and lions"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Hatutaki"
+    ]
+  },
+  {
+    "id": "sw_31",
+    "text": "Unaelewa?",
+    "category": "Numbers",
+    "translations": {
+      "en": "Do you understand?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Unaelewa?"
+    ]
+  },
+  {
+    "id": "sw_32",
+    "text": "Ndiyo, naelewa",
+    "category": "Numbers",
+    "translations": {
+      "en": "Yes, I understand"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Ndiyo,",
+      "naelewa"
+    ]
+  },
+  {
+    "id": "sw_33",
+    "text": "Hapana, sielewi",
+    "category": "Numbers",
+    "translations": {
+      "en": "No, I don't understand"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Hapana,",
+      "sielewi"
+    ]
+  },
+  {
+    "id": "sw_34",
+    "text": "Ulisema nini?",
+    "category": "Numbers",
+    "translations": {
+      "en": "What did you say?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Ulisema"
+    ]
+  },
+  {
+    "id": "sw_35",
+    "text": "Nilisema ndiyo",
+    "category": "Numbers",
+    "translations": {
+      "en": "I said yes"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Nilisema"
+    ]
+  },
+  {
+    "id": "sw_36",
+    "text": "moja, mbili, tatu",
+    "category": "Numbers",
+    "translations": {
+      "en": "one, two, three"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "moja,",
+      "mbili,",
+      "tatu"
+    ]
+  },
+  {
+    "id": "sw_37",
+    "text": "nne, tano, sita",
+    "category": "Numbers",
+    "translations": {
+      "en": "four, five, six"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "nne,",
+      "tano,",
+      "sita"
+    ]
+  },
+  {
+    "id": "sw_38",
+    "text": "saba, nane, tisa",
+    "category": "Numbers",
+    "translations": {
+      "en": "seven, eight, nine"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "saba,",
+      "nane,",
+      "tisa"
+    ]
+  },
+  {
+    "id": "sw_39",
+    "text": "kumi, mia, elfu",
+    "category": "Numbers",
+    "translations": {
+      "en": "ten, hundred, thousand"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "kumi,",
+      "mia,",
+      "elfu"
+    ]
+  },
+  {
+    "id": "sw_40",
+    "text": "sifuri",
+    "category": "Numbers",
+    "translations": {
+      "en": "zero"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "sifuri"
+    ]
+  },
+  {
+    "id": "sw_41",
+    "text": "kumi na moja",
+    "category": "Numbers",
+    "translations": {
+      "en": "eleven"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "kumi na moja"
+    ]
+  },
+  {
+    "id": "sw_42",
+    "text": "kumi na mbili",
+    "category": "Numbers",
+    "translations": {
+      "en": "twelve"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "kumi na mbili"
+    ]
+  },
+  {
+    "id": "sw_43",
+    "text": "Nataka kununua nyanya tatu",
+    "category": "Daily Life",
+    "translations": {
+      "en": "I want to buy three tomatos"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "kununua",
+      "nyanya"
+    ]
+  },
+  {
+    "id": "sw_44",
+    "text": "Hii ni shilingi mia tano",
+    "category": "Daily Life",
+    "translations": {
+      "en": "This is five hundreds shiling"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "shilingi mia tano"
+    ]
+  },
+  {
+    "id": "sw_45",
+    "text": "Leo ni tarehe gani?",
+    "category": "Daily Life",
+    "translations": {
+      "en": "What is the date today?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "tarehe gani?"
+    ]
+  },
+  {
+    "id": "sw_46",
+    "text": "Leo ni tarehe ishirini na moja, mwezi wa sita.",
+    "category": "Daily Life",
+    "translations": {
+      "en": "Today is June 21st."
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Leo",
+      "tarehe",
+      "ishirini",
+      "mwezi wa sita"
+    ]
+  },
+  {
+    "id": "sw_47",
+    "text": "mwezi wa kwanza",
+    "category": "Daily Life",
+    "translations": {
+      "en": "January"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "mwezi wa kwanza"
+    ]
+  },
+  {
+    "id": "sw_48",
+    "text": "Mwezi wa pili",
+    "category": "Daily Life",
+    "translations": {
+      "en": "February"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Mwezi wa pili"
+    ]
+  },
+  {
+    "id": "sw_49",
+    "text": "Tulinunua viazi tisa",
+    "category": "Daily Life",
+    "translations": {
+      "en": "We bought nine potatos"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Tulinunua",
+      "viazi"
+    ]
+  },
+  {
+    "id": "sw_50",
+    "text": "Nilikimbia kilomita nne jana",
+    "category": "Daily Life",
+    "translations": {
+      "en": "I ran 4 km yesterday"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Nilikimbia",
+      "kilomita",
+      "jana"
+    ]
+  }
+]
