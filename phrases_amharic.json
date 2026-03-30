@@ -1,0 +1,722 @@
+[
+  {
+    "id": "am_1",
+    "text": "ወደ አውቶቡስ ጣቢያ መሄድ እፈልጋለሁ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I want to go to the bus station."
+    },
+    "pronunciation": "wede awtobus tabiya mehed efeligalehu",
+    "keywords": [
+      "ወደ",
+      "አውቶቡስ",
+      "ጣቢያ",
+      "መሄድ",
+      "እፈልጋለሁ"
+    ]
+  },
+  {
+    "id": "am_2",
+    "text": "አንድ ትኬት፣ እባክዎ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "One ticket, please."
+    },
+    "pronunciation": "and tiket, ibakhwo",
+    "keywords": [
+      "አንድ",
+      "ትኬት",
+      "እባክዎ"
+    ]
+  },
+  {
+    "id": "am_3",
+    "text": "የትኬቱ ዋጋ ስንት ነው?",
+    "category": "Transportation",
+    "translations": {
+      "en": "How much is the ticket?"
+    },
+    "pronunciation": "yetiketu waga sinti newo",
+    "keywords": [
+      "የትኬቱ",
+      "ዋጋ",
+      "ስንት",
+      "ነው?"
+    ]
+  },
+  {
+    "id": "am_4",
+    "text": "አውቶቡሱ በስንት ሰዓት ይነሳል?",
+    "category": "Transportation",
+    "translations": {
+      "en": "What time does the bus leave?"
+    },
+    "pronunciation": "awtobusu besint se-at yinesal",
+    "keywords": [
+      "አውቶቡሱ",
+      "በስንት",
+      "ሰዓት",
+      "ይነሳል?"
+    ]
+  },
+  {
+    "id": "am_5",
+    "text": "ባቡሩ መቼ ይደርሳል?",
+    "category": "Transportation",
+    "translations": {
+      "en": "When will the train arrive?"
+    },
+    "pronunciation": "baburu meche yidersal",
+    "keywords": [
+      "ባቡሩ",
+      "መቼ",
+      "ይደርሳል?"
+    ]
+  },
+  {
+    "id": "am_6",
+    "text": "መኪና መከራየት እፈልጋለሁ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I want to rent a car."
+    },
+    "pronunciation": "mekina mekerayet efeligalehu",
+    "keywords": [
+      "መኪና",
+      "መከራየት",
+      "እፈልጋለሁ"
+    ]
+  },
+  {
+    "id": "am_7",
+    "text": "ታክሲ የት ማግኘት እችላለሁ?",
+    "category": "Transportation",
+    "translations": {
+      "en": "Where can I find a taxi?"
+    },
+    "pronunciation": "taksi yet magnyet ichilalehu",
+    "keywords": [
+      "ታክሲ",
+      "የተ",
+      "ማግኘት",
+      "እችላለሁ?"
+    ]
+  },
+  {
+    "id": "am_8",
+    "text": "እባክዎ ወደ አውሮፕላን ማረፊያ ይውሰዱኝ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "Please take me to the airport."
+    },
+    "pronunciation": "ibakhwo wede awroplan marefiya yiwsedugn",
+    "keywords": [
+      "ወደ",
+      "አውሮፕላን",
+      "ማረፊያ",
+      "ይውሰዱኝ"
+    ]
+  },
+  {
+    "id": "am_9",
+    "text": "እባክዎ እዚህ ያቁሙ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "Please stop here."
+    },
+    "pronunciation": "ibakhwo ezih yaqumu",
+    "keywords": [
+      "እባክዎ",
+      "እዚህ",
+      "ያቁሙ"
+    ]
+  },
+  {
+    "id": "am_10",
+    "text": "ከዚህ በጣም ይርቃል?",
+    "category": "Transportation",
+    "translations": {
+      "en": "Is it far from here?"
+    },
+    "pronunciation": "kezih betam yirqal",
+    "keywords": [
+      "ከዚህ",
+      "በጣም",
+      "ይርቃል?"
+    ]
+  },
+  {
+    "id": "am_11",
+    "text": "በእግር እሄዳለሁ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I am going on foot."
+    },
+    "pronunciation": "beigir ihedalehu",
+    "keywords": [
+      "በእግር",
+      "እሄዳለሁ"
+    ]
+  },
+  {
+    "id": "am_12",
+    "text": "የቁጥር አምስት አውቶቡስ እወስዳለሁ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I take bus number five."
+    },
+    "pronunciation": "yequ tir amist awtobus iwsedalehu",
+    "keywords": [
+      "የቁጥር",
+      "አምስት",
+      "አውቶቡስ",
+      "እወስዳለሁ"
+    ]
+  },
+  {
+    "id": "am_13",
+    "text": "መኪናው ተበላሽቷል።",
+    "category": "Transportation",
+    "translations": {
+      "en": "The car has broken down."
+    },
+    "pronunciation": "mekinaw tebelashtwal",
+    "keywords": [
+      "መኪናው",
+      "ተበላሽቷል"
+    ]
+  },
+  {
+    "id": "am_14",
+    "text": "ይህ መንገድ ወደ ከተማ ይሄዳል?",
+    "category": "Transportation",
+    "translations": {
+      "en": "Does this road go to the city?"
+    },
+    "pronunciation": "yih menged wede ketema yihedal",
+    "keywords": [
+      "ይህ",
+      "መንገድ",
+      "ወደ",
+      "ከተማ",
+      "ይሄዳል?"
+    ]
+  },
+  {
+    "id": "am_15",
+    "text": "እባክዎ ካርታውን ያሳዩኝ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "Please show me the map."
+    },
+    "pronunciation": "ibakhwo kartawun yasayugn",
+    "keywords": [
+      "እባክዎ",
+      "ካርታውን",
+      "ያሳዩኝ"
+    ]
+  },
+  {
+    "id": "am_16",
+    "text": "በትራፊክ ጃም ውስጥ ነኝ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I am stuck in traffic."
+    },
+    "pronunciation": "betrafik jam wust negn",
+    "keywords": [
+      "በትራፊክ",
+      "ጃም",
+      "ውስጥ",
+      "ነኝ"
+    ]
+  },
+  {
+    "id": "am_17",
+    "text": "ወደፊት መስቀለኛ መንገድ አለ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "There is an intersection ahead."
+    },
+    "pronunciation": "wedefit mesqelegna menged ale",
+    "keywords": [
+      "ወደፊት",
+      "መስቀለኛ",
+      "መንገድ",
+      "አለ"
+    ]
+  },
+  {
+    "id": "am_18",
+    "text": "የታክሲ ሹፌር ይደውሉ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "Call a taxi driver."
+    },
+    "pronunciation": "yetaksi shufer yidewlu",
+    "keywords": [
+      "የታክሲ",
+      "ሹፌር",
+      "ይደውሉ"
+    ]
+  },
+  {
+    "id": "am_19",
+    "text": "በሚቀጥለው መቆሚያ እወርዳለሁ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I will get off at the next stop."
+    },
+    "pronunciation": "bemiquetilew moqomiya iwerdalehu",
+    "keywords": [
+      "በሚቀጥለው",
+      "መቆሚያ",
+      "እወርዳለሁ"
+    ]
+  },
+  {
+    "id": "am_20",
+    "text": "ይህ አውቶቡስ የት ይሄዳል?",
+    "category": "Transportation",
+    "translations": {
+      "en": "Where does this bus go?"
+    },
+    "pronunciation": "yih awtobus yet yihedal",
+    "keywords": [
+      "ይህ",
+      "አውቶቡስ",
+      "የት",
+      "ይሄዳል?"
+    ]
+  },
+  {
+    "id": "am_21",
+    "text": "አውቶቡስ መቀያየር አለብኝ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I need to change buses."
+    },
+    "pronunciation": "awtobus meqeyayer alebign",
+    "keywords": [
+      "አውቶቡስ",
+      "መቀያየር",
+      "አለብኝ"
+    ]
+  },
+  {
+    "id": "am_22",
+    "text": "ሻንጣዬ በጣም ከባድ ነው።",
+    "category": "Transportation",
+    "translations": {
+      "en": "My luggage is too heavy."
+    },
+    "pronunciation": "shantaye betam kebad newo",
+    "keywords": [
+      "ሻንጣዬ",
+      "በጣም",
+      "ከባድ",
+      "ነው"
+    ]
+  },
+  {
+    "id": "am_23",
+    "text": "ቀጥታ በረራ አለ?",
+    "category": "Transportation",
+    "translations": {
+      "en": "Is there a direct flight?"
+    },
+    "pronunciation": "qetita berera ale",
+    "keywords": [
+      "ቀጥታ",
+      "በረራ",
+      "አለ?"
+    ]
+  },
+  {
+    "id": "am_24",
+    "text": "ጉዞው ምን ያህል ጊዜ ይወስዳል?",
+    "category": "Transportation",
+    "translations": {
+      "en": "How long will the journey take?"
+    },
+    "pronunciation": "guzow min yahil gize yiwsidal",
+    "keywords": [
+      "ጉዞው",
+      "ምን",
+      "ያህል",
+      "ጊዜ",
+      "ይወስዳል?"
+    ]
+  },
+  {
+    "id": "am_25",
+    "text": "ትኬቴን አጣሁ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I lost my ticket."
+    },
+    "pronunciation": "tiketen attahu",
+    "keywords": [
+      "ትኬቴን",
+      "አጣሁ"
+    ]
+  },
+  {
+    "id": "am_26",
+    "text": "ከመስኮት አጠገብ መቀመጫ እፈልጋለሁ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I would like a seat near the window."
+    },
+    "pronunciation": "kemeskot ategeb meqemecha efeligalehu",
+    "keywords": [
+      "ከመስኮት",
+      "አጠገብ",
+      "መቀመጫ",
+      "እፈልጋለሁ"
+    ]
+  },
+  {
+    "id": "am_27",
+    "text": "ሹፌር፣ እባክዎ ቀስ ብለው ይንዱ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "Driver, please drive slowly."
+    },
+    "pronunciation": "shufer, ibakhwo qes bilewo yindu",
+    "keywords": [
+      "ሹፌር",
+      "እባክዎ",
+      "ቀስ",
+      "ብለው",
+      "ይንዱ"
+    ]
+  },
+  {
+    "id": "am_28",
+    "text": "ወደቡ ስንት ሰዓት እንደርሳለን?",
+    "category": "Transportation",
+    "translations": {
+      "en": "What time do we reach the port?"
+    },
+    "pronunciation": "wedebu sint se-at indersalen",
+    "keywords": [
+      "ወደቡ",
+      "ስንት",
+      "ሰዓት",
+      "እንድርሳለን?"
+    ]
+  },
+  {
+    "id": "am_29",
+    "text": "ሞተርሳይክል ጋልቤ ወደ ሥራ እሄዳለሁ።",
+    "category": "Transportation",
+    "translations": {
+      "en": "I ride a motorcycle to work."
+    },
+    "pronunciation": "motor-saykil galbe wede sira ihedalehu",
+    "keywords": [
+      "ሞተርሳይክል",
+      "ጋልቤ",
+      "ወደ",
+      "ሥራ",
+      "እሄዳለሁ"
+    ]
+  },
+  {
+    "id": "am_30",
+    "text": "ደስ ላለው ጉዞ እናመሰግናለን!",
+    "category": "Transportation",
+    "translations": {
+      "en": "Thank you for a pleasant journey!"
+    },
+    "pronunciation": "des lalewo guzo inameseginalen",
+    "keywords": [
+      "ደስ",
+      "ላለው",
+      "ጉዞ",
+      "እናመሰግናለን"
+    ]
+  },
+  {
+    "id": "am_31",
+    "text": "[Native: Do you understand?]",
+    "category": "Numbers",
+    "translations": {
+      "en": "Do you understand?",
+      "ja": "Do you understand?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "understand?"
+    ]
+  },
+  {
+    "id": "am_32",
+    "text": "[Native: Yes, I understand]",
+    "category": "Numbers",
+    "translations": {
+      "en": "Yes, I understand",
+      "ja": "Yes, I understand"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Yes,",
+      "understand"
+    ]
+  },
+  {
+    "id": "am_33",
+    "text": "[Native: No, I don't understand]",
+    "category": "Numbers",
+    "translations": {
+      "en": "No, I don't understand",
+      "ja": "No, I don't understand"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "don't",
+      "understand"
+    ]
+  },
+  {
+    "id": "am_34",
+    "text": "[Native: What did you say?]",
+    "category": "Numbers",
+    "translations": {
+      "en": "What did you say?",
+      "ja": "What did you say?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "What",
+      "say?"
+    ]
+  },
+  {
+    "id": "am_35",
+    "text": "[Native: I said yes]",
+    "category": "Numbers",
+    "translations": {
+      "en": "I said yes",
+      "ja": "I said yes"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "said"
+    ]
+  },
+  {
+    "id": "am_36",
+    "text": "[Native: one, two, three]",
+    "category": "Numbers",
+    "translations": {
+      "en": "one, two, three",
+      "ja": "one, two, three"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "one,",
+      "two,",
+      "three"
+    ]
+  },
+  {
+    "id": "am_37",
+    "text": "[Native: four, five, six]",
+    "category": "Numbers",
+    "translations": {
+      "en": "four, five, six",
+      "ja": "four, five, six"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "four,",
+      "five,"
+    ]
+  },
+  {
+    "id": "am_38",
+    "text": "[Native: seven, eight, nine]",
+    "category": "Numbers",
+    "translations": {
+      "en": "seven, eight, nine",
+      "ja": "seven, eight, nine"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "seven,",
+      "eight,",
+      "nine"
+    ]
+  },
+  {
+    "id": "am_39",
+    "text": "[Native: ten, hundred, thousand]",
+    "category": "Numbers",
+    "translations": {
+      "en": "ten, hundred, thousand",
+      "ja": "ten, hundred, thousand"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "ten,",
+      "hundred,",
+      "thousand"
+    ]
+  },
+  {
+    "id": "am_40",
+    "text": "[Native: zero]",
+    "category": "Numbers",
+    "translations": {
+      "en": "zero",
+      "ja": "zero"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "zero"
+    ]
+  },
+  {
+    "id": "am_41",
+    "text": "[Native: eleven]",
+    "category": "Numbers",
+    "translations": {
+      "en": "eleven",
+      "ja": "eleven"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "eleven"
+    ]
+  },
+  {
+    "id": "am_42",
+    "text": "[Native: twelve]",
+    "category": "Numbers",
+    "translations": {
+      "en": "twelve",
+      "ja": "twelve"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "twelve"
+    ]
+  },
+  {
+    "id": "am_43",
+    "text": "[Native: I want to buy three tomatos]",
+    "category": "Daily Life",
+    "translations": {
+      "en": "I want to buy three tomatos",
+      "ja": "I want to buy three tomatos"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "want",
+      "three",
+      "tomatos"
+    ]
+  },
+  {
+    "id": "am_44",
+    "text": "[Native: This is five hundreds shiling]",
+    "category": "Daily Life",
+    "translations": {
+      "en": "This is five hundreds shiling",
+      "ja": "This is five hundreds shiling"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "This",
+      "five",
+      "hundreds",
+      "shiling"
+    ]
+  },
+  {
+    "id": "am_45",
+    "text": "[Native: What is the date today?]",
+    "category": "Daily Life",
+    "translations": {
+      "en": "What is the date today?",
+      "ja": "What is the date today?"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "What",
+      "date",
+      "today?"
+    ]
+  },
+  {
+    "id": "am_46",
+    "text": "[Native: Today is June 21st.]",
+    "category": "Daily Life",
+    "translations": {
+      "en": "Today is June 21st.",
+      "ja": "Today is June 21st."
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "Today",
+      "June",
+      "21st."
+    ]
+  },
+  {
+    "id": "am_47",
+    "text": "[Native: January]",
+    "category": "Daily Life",
+    "translations": {
+      "en": "January",
+      "ja": "January"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "January"
+    ]
+  },
+  {
+    "id": "am_48",
+    "text": "[Native: February]",
+    "category": "Daily Life",
+    "translations": {
+      "en": "February",
+      "ja": "February"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "February"
+    ]
+  },
+  {
+    "id": "am_49",
+    "text": "[Native: We bought nine potatos]",
+    "category": "Daily Life",
+    "translations": {
+      "en": "We bought nine potatos",
+      "ja": "We bought nine potatos"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "bought",
+      "nine",
+      "potatos"
+    ]
+  },
+  {
+    "id": "am_50",
+    "text": "[Native: I ran 4 km yesterday]",
+    "category": "Daily Life",
+    "translations": {
+      "en": "I ran 4 km yesterday",
+      "ja": "I ran 4 km yesterday"
+    },
+    "pronunciation": "...",
+    "keywords": [
+      "yesterday"
+    ]
+  }
+]
